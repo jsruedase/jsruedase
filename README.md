@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>Hi there, I'm Juan Sebastián Rueda </h1>
+  <h1>Hi there! I'm Juan Sebastián Rueda</h1>
 
   <img src="./header.gif" width="50%" alt="network gif" />
 
-  <h3>Mathematics & Computer Science Student @ UNAL</h3>
+  <h3>Mathematics & Computer Science Student at UNAL</h3>
 
   <img src="https://komarev.com/ghpvc/?username=jsruedase&style=flat-square&color=blueviolet" alt="Profile Views" />
 
@@ -26,13 +26,11 @@
 
 ## About Me
 
-I am a **Mathematics and Computer Science** student at the National University of Colombia, passionate about combining mathematical rigor with computational implementation to solve complex problems.
-
-I characterize myself by learning quickly and delving deep into theoretical topics to apply them in practice. Currently, I am an active member of the **Post-Quantum Cryptography** and **Advanced Data Structures** research groups.
+I am a **Mathematics and Computer Science** student at the National University of Colombia, passionate about combining mathematical rigor with computational implementation to solve complex problems. I characterize myself by learning quickly and delving deep into theoretical topics to apply them in practice. Currently, I am an active member of the **Post-Quantum Cryptography** and **Advanced Data Structures** seminars.
 
 * **I’m currently interested in:** Cryptography, Algorithm Design, Optimization, and Artificial Intelligence.
-* **I’m currently learning:** Advanced algebraic structures for crypto & AI optimization techniques.
-* **I’m looking to collaborate on:** Open source projects related to algorithms or math-heavy software.
+* **I’m currently learning:** Deep Learning, Mathematics for ML, LWE encryption scheme.
+<!--* **I’m looking to collaborate on:** !-->
 
 ---
 
