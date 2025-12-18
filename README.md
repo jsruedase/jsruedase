@@ -2,7 +2,7 @@
 
   <h1>Hi there! I'm Juan Sebastián Rueda</h1>
 
-  <img src="./header.gif" width="50%" alt="network gif" />
+  <img src="./header.gif" width="80%" alt="network gif" />
 
   <h3>Mathematics & Computer Science Student at UNAL</h3>
 
